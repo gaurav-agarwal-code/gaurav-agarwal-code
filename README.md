@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @gaurav-agarwal-code
+# 👋 Hi, I’m @gaurav-agarwal
 
 ## About Me
 I'm Gaurav Agarwal, a CSE student based in Bhubaneswar, Odisha. I'm passionate about web development, data science, machine learning, etc. I enjoy solving complex problems and sharing my knowledge with the community.
