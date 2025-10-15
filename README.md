@@ -17,4 +17,4 @@ I'm Gaurav Agarwal, a CSE student based in Bhubaneswar, Odisha. I'm passionate a
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gourav-agarwal-558a11287)
-- [Gmail](986gauravagarwal@gmail.com)
+- Gmail: 986gauravagarwal@gmail.com
