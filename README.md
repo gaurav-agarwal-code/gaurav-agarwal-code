@@ -25,6 +25,8 @@ Experimenting with automation and smart systems
 - 📊 Data: Pandas, NumPy, Matplotlib
 - 🧠 AI/ML: TensorFlow, Scikit-learn (learning in progress)
 
+This are some of the tech that i listed and is working upon currently but don't this that's all i got😅😎
+
 # 🌱 A Little More About Me
 
 I’m endlessly fascinated by machines and technology — from how a processor executes instructions to how AI models recognize patterns. If I come across something new, I can’t resist digging into its details to understand how it really works.
