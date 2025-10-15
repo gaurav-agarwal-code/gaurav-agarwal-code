@@ -10,7 +10,7 @@ Whether it’s understanding the logic behind a machine, exploring new framework
 
 I believe in learning by doing, sharing what I learn, and turning every idea into something meaningful.
 
-💡 What I’m Currently Exploring
+# 💡 What I’m Currently Exploring
 
 Building AI-powered tools with React Native & Firebase
 
@@ -18,7 +18,7 @@ Understanding the inner workings of ML models and deployment (MLOps)
 
 Experimenting with automation and smart systems
 
-⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 💻 Languages: C, Java, Python, JavaScript, SQL
 🌐 Web & App: React, React Native, Node.js, Firebase
