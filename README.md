@@ -20,10 +20,10 @@ Experimenting with automation and smart systems
 
 # ⚙️ Tech Stack
 
-💻 Languages: C, Java, Python, JavaScript, SQL
-🌐 Web & App: React, React Native, Node.js, Firebase
-📊 Data: Pandas, NumPy, Matplotlib
-🧠 AI/ML: TensorFlow, Scikit-learn (learning in progress)
+- 💻 Languages: C, Java, Python, JavaScript, SQL
+- 🌐 Web & App: React, React Native, Node.js, Firebase
+- 📊 Data: Pandas, NumPy, Matplotlib
+- 🧠 AI/ML: TensorFlow, Scikit-learn (learning in progress)
 
 # 🌱 A Little More About Me
 
